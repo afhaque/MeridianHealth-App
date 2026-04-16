@@ -1,0 +1,224 @@
+deal_id,company_name,industry,rep_name,lead_source,product_line,deal_stage,deal_value,created_date,close_date,days_in_stage,last_activity_days_ago,probability_pct,competitor_mentioned,num_stakeholders,next_action
+DL-1001,Heritage Oncology Partners,Health Network,James Okafor,Inbound,Meridian Enterprise,Closed Won,479000,2024-01-13,2024-03-11,0,57,95,In-House Solution,1,Contract sent
+DL-1002,Coastal Healthcare System,Health Network,Aisha Brooks,Referral,Meridian Pro,Closed Lost,40000,2025-01-01,2025-02-14,0,74,1,In-House Solution,6,Follow-up call
+DL-1003,Valley Health System,Outpatient Clinic,Priya Nair,Referral,Meridian Enterprise,Closed Won,235000,2024-07-13,2024-09-12,0,59,100,None,3,Executive meeting
+DL-1004,Valley Clinic,Hospital System,Andre Bishop,Conference,Meridian Core,Closed Won,26000,2024-10-22,2024-12-19,0,35,98,None,8,Check in
+DL-1005,Lakeshore Hospital,Outpatient Clinic,Andre Bishop,Conference,Meridian Enterprise,Closed Won,449000,2024-03-24,2024-06-11,0,70,97,Cerner,4,Demo scheduled
+DL-1006,Osprey Care Partners,Ambulatory Surgery Center,Nina Patel,Outbound,Meridian Pro,Demo Scheduled,47000,2024-11-23,2025-01-13,14,5,36,None,3,Send proposal
+DL-1007,Heritage Hospital,Health Network,Chris Park,Conference,Meridian Enterprise,Closed Won,387000,2024-07-21,2024-10-05,0,67,100,Cerner,8,Follow-up call
+DL-1008,Harbor Regional Health,Specialty Practice,Devon Mills,Conference,Meridian Enterprise,Negotiation,339000,2025-02-09,2025-04-25,45,1,75,In-House Solution,3,Executive meeting
+DL-1009,Willow Cardiac Institute,Ambulatory Surgery Center,Devon Mills,Outbound,Meridian Enterprise,Negotiation,234000,2024-08-20,2024-11-19,21,14,75,None,2,Send proposal
+DL-1010,Northbay Care Partners,Hospital System,Julia Novak,Conference,Meridian Pro,Closed Won,79000,2024-01-01,2024-02-11,0,86,100,None,8,Executive meeting
+DL-1011,Coastal Oncology Partners,Ambulatory Surgery Center,Priya Nair,Referral,Meridian Pro,Closed Won,110000,2025-01-24,2025-02-18,0,85,100,Epic,2,Check in
+DL-1012,Ridgeline Oncology Partners,Specialty Practice,Tomas Rivera,Referral,Meridian Enterprise,Closed Won,331000,2024-07-23,2024-08-31,0,34,100,None,2,Contract sent
+DL-1013,Cedar Hospital,Hospital System,Marcus Webb,Outbound,Meridian Pro,Closed Won,49000,2024-04-27,2024-06-26,0,72,100,None,8,Send proposal
+DL-1014,Riverside Medical Center,Ambulatory Surgery Center,Chris Park,Inbound,Meridian Pro,Closed Won,85000,2025-02-17,2025-03-25,0,85,95,In-House Solution,4,Check in
+DL-1015,Briar Health System,Health Network,Rachel Kim,Inbound,Meridian Enterprise,Closed Won,316000,2025-02-13,2025-03-31,0,45,96,Epic,1,Check in
+DL-1016,Valley Clinic,Specialty Practice,Priya Nair,Referral,Meridian Pro,Closed Lost,67000,2025-01-20,2025-02-21,0,40,1,None,4,Legal review
+DL-1017,Cedar Medical Center,Ambulatory Surgery Center,Sam Elliot,Partner,Meridian Enterprise,Closed Won,349000,2024-12-22,2025-02-12,0,43,95,Cerner,3,Follow-up call
+DL-1018,Atlas Regional Health,Urgent Care,Marcus Webb,Outbound,Meridian Core,Closed Won,15000,2024-10-26,2024-12-25,0,41,96,Cerner,2,Demo scheduled
+DL-1019,Forge Health Network,Urgent Care,James Okafor,Inbound,Meridian Core,Negotiation,38000,2025-03-31,2025-05-14,12,5,68,In-House Solution,3,Demo scheduled
+DL-1020,Cedar Health Network,Outpatient Clinic,Lauren Tate,Conference,Meridian Core,Closed Lost,12000,2024-12-09,2025-01-26,0,66,0,None,3,Send proposal
+DL-1021,Mercy Regional Health,Specialty Practice,Connor Walsh,Inbound,Meridian Enterprise,Closed Won,460000,2024-07-08,2024-08-27,0,81,100,Cerner,3,Check in
+DL-1022,Cardinal Hospital,Hospital System,Nina Patel,Partner,Meridian Core,Closed Won,39000,2024-09-15,2024-11-07,0,30,100,None,8,Contract sent
+DL-1023,Sequoia Health Alliance,Hospital System,Sam Elliot,Outbound,Meridian Enterprise,Closed Won,176000,2024-10-14,2025-01-14,0,53,100,Cerner,3,Follow-up call
+DL-1024,Tidewater Care Partners,Outpatient Clinic,Tomas Rivera,Inbound,Meridian Core,Closed Won,27000,2024-07-05,2024-08-18,0,79,100,Epic,2,Send proposal
+DL-1025,Evergreen Health Network,Health Network,Devon Mills,Inbound,Meridian Enterprise,Qualified,310000,2025-02-13,2025-04-20,10,37,26,Epic,4,Executive meeting
+DL-1026,Willow Health Alliance,Health Network,Fatima Hassan,Partner,Meridian Enterprise,Closed Won,198000,2024-06-28,2024-08-27,0,85,96,None,6,Follow-up call
+DL-1027,Valley Cardiac Institute,Outpatient Clinic,James Okafor,Inbound,Meridian Core,Demo Scheduled,18000,2025-03-25,2025-05-06,15,10,43,None,2,Legal review
+DL-1028,Forge Regional Health,Urgent Care,Marcus Webb,Outbound,Meridian Enterprise,Qualified,451000,2024-12-28,2025-04-05,13,11,30,Cerner,1,Check in
+DL-1029,Valley Regional Health,Specialty Practice,Tomas Rivera,Outbound,Meridian Pro,Closed Won,91000,2024-09-16,2024-11-21,0,38,98,Epic,2,Contract sent
+DL-1030,Forge Surgical Center,Hospital System,Tomas Rivera,Outbound,Meridian Pro,Closed Lost,76000,2024-07-26,2024-09-14,0,67,4,In-House Solution,8,Demo scheduled
+DL-1031,Northbay Health Services,Ambulatory Surgery Center,Aisha Brooks,Referral,Meridian Core,Closed Won,17000,2024-09-18,2024-10-17,0,70,100,None,2,Check in
+DL-1032,Valley Surgical Center,Hospital System,Tomas Rivera,Outbound,Meridian Core,Prospecting,27000,2024-04-25,2024-06-23,16,11,19,None,7,Send proposal
+DL-1033,Briar Health Network,Specialty Practice,Lauren Tate,Inbound,Meridian Core,Closed Lost,23000,2024-12-01,2025-01-18,0,63,2,None,1,Demo scheduled
+DL-1034,Briar Surgical Center,Urgent Care,Lauren Tate,Conference,Meridian Enterprise,Negotiation,262000,2025-02-14,2025-05-08,44,12,73,Epic,2,Check in
+DL-1035,Lakeshore Clinic,Health Network,Chris Park,Inbound,Meridian Enterprise,Closed Won,366000,2024-08-18,2024-10-13,0,47,100,None,6,Legal review
+DL-1036,Highland Health Alliance,Hospital System,Connor Walsh,Outbound,Meridian Pro,Closed Lost,92000,2024-07-15,2024-09-07,0,56,0,None,1,Executive meeting
+DL-1037,Heritage Surgical Center,Outpatient Clinic,Megan Torres,Referral,Meridian Pro,Closed Won,89000,2024-09-01,2024-10-17,0,77,100,Cerner,2,Legal review
+DL-1038,Tidewater Oncology Partners,Outpatient Clinic,Sam Elliot,Outbound,Meridian Enterprise,Closed Lost,447000,2024-09-05,2024-12-14,0,40,2,None,1,Demo scheduled
+DL-1039,Pinnacle Healthcare System,Specialty Practice,Sarah Chen,Inbound,Meridian Core,Closed Won,15000,2024-02-12,2024-03-14,0,43,100,None,4,Legal review
+DL-1040,Cascade Healthcare System,Hospital System,Sam Elliot,Conference,Meridian Enterprise,Demo Scheduled,376000,2024-05-09,2024-07-08,9,11,36,In-House Solution,1,Send proposal
+DL-1041,Harbor Healthcare System,Ambulatory Surgery Center,Lauren Tate,Conference,Meridian Core,Demo Scheduled,25000,2024-05-02,2024-06-19,7,10,44,In-House Solution,2,Legal review
+DL-1042,Ridgeline Care Partners,Outpatient Clinic,James Okafor,Inbound,Meridian Enterprise,Closed Won,446000,2024-10-23,2024-12-15,0,75,98,None,2,Follow-up call
+DL-1043,Riverside Health Alliance,Hospital System,Tomas Rivera,Partner,Meridian Pro,Prospecting,108000,2025-03-11,2025-04-20,18,1,16,Epic,6,Check in
+DL-1044,Ridgeline Clinic,Health Network,Fatima Hassan,Partner,Meridian Enterprise,Closed Lost,433000,2024-12-28,2025-02-22,0,88,3,Epic,6,Executive meeting
+DL-1045,Westmark Surgical Center,Specialty Practice,Connor Walsh,Inbound,Meridian Core,Proposal Sent,41000,2025-03-01,2025-04-11,12,1,57,None,2,Legal review
+DL-1046,Lakeshore Care Partners,Urgent Care,Nina Patel,Partner,Meridian Enterprise,Closed Won,241000,2024-06-23,2024-08-27,0,90,98,None,4,Demo scheduled
+DL-1047,Ridgeline Medical Group,Hospital System,Chris Park,Conference,Meridian Core,Closed Won,30000,2024-11-26,2025-01-06,0,45,99,In-House Solution,8,Contract sent
+DL-1048,Granite Medical Group,Ambulatory Surgery Center,Julia Novak,Conference,Meridian Enterprise,Demo Scheduled,269000,2024-06-25,2024-09-03,11,5,38,None,1,Check in
+DL-1049,Ironwood Health Network,Ambulatory Surgery Center,Derek Stone,Outbound,Meridian Pro,Negotiation,75000,2025-01-25,2025-04-02,21,5,66,None,3,Send proposal
+DL-1050,Ironwood Surgical Center,Hospital System,Tomas Rivera,Outbound,Meridian Core,Proposal Sent,30000,2024-01-08,2024-03-14,5,14,50,Cerner,8,Demo scheduled
+DL-1051,Pinecrest Hospital,Specialty Practice,Rachel Kim,Referral,Meridian Core,Closed Won,16000,2024-04-04,2024-05-06,0,66,100,In-House Solution,2,Executive meeting
+DL-1052,Ridgeline Health Alliance,Specialty Practice,Tomas Rivera,Outbound,Meridian Enterprise,Negotiation,405000,2024-02-13,2024-05-23,30,8,72,None,3,Contract sent
+DL-1053,Highland Surgical Center,Health Network,Marcus Webb,Inbound,Meridian Enterprise,Closed Won,438000,2024-11-08,2024-12-21,0,41,100,In-House Solution,8,Legal review
+DL-1054,Pacific Health System,Outpatient Clinic,Marcus Webb,Outbound,Meridian Enterprise,Demo Scheduled,332000,2024-04-28,2024-07-14,22,10,45,None,2,Check in
+DL-1055,Harbor Surgical Center,Hospital System,Lauren Tate,Inbound,Meridian Core,Closed Lost,31000,2024-05-16,2024-06-27,0,66,0,Epic,5,Check in
+DL-1056,Cardinal Medical Center,Specialty Practice,Megan Torres,Referral,Meridian Pro,Closed Won,50000,2024-05-19,2024-06-27,0,57,100,Cerner,1,Send proposal
+DL-1057,Ridgeline Health Alliance,Hospital System,Sarah Chen,Inbound,Meridian Core,Closed Won,42000,2025-01-26,2025-03-06,0,88,99,None,8,Follow-up call
+DL-1058,Lakeside Health Services,Outpatient Clinic,Chris Park,Inbound,Meridian Enterprise,Closed Won,153000,2024-06-27,2024-08-12,0,74,100,None,1,Demo scheduled
+DL-1059,Highland Medical Center,Hospital System,Priya Nair,Referral,Meridian Pro,Closed Lost,105000,2024-06-10,2024-07-26,0,72,3,Epic,4,Contract sent
+DL-1060,Redwood Health System,Hospital System,Andre Bishop,Conference,Meridian Core,Closed Won,29000,2024-11-14,2025-01-04,0,48,100,In-House Solution,1,Check in
+DL-1061,Harbor Regional Health,Urgent Care,Connor Walsh,Inbound,Meridian Core,Closed Won,38000,2024-12-29,2025-01-23,0,83,96,Epic,2,Demo scheduled
+DL-1062,Willow Care Partners,Specialty Practice,Tomas Rivera,Conference,Meridian Pro,Closed Lost,71000,2024-09-17,2024-11-04,0,54,0,Cerner,2,Executive meeting
+DL-1063,Ridgeline Regional Health,Outpatient Clinic,Priya Nair,Conference,Meridian Enterprise,Closed Won,236000,2024-05-21,2024-08-14,0,76,99,Cerner,4,Executive meeting
+DL-1064,Lakeshore Cardiac Institute,Outpatient Clinic,Lauren Tate,Conference,Meridian Pro,Closed Lost,110000,2024-08-16,2024-10-13,0,59,0,None,4,Send proposal
+DL-1065,Ridgeline Medical Group,Specialty Practice,Chris Park,Conference,Meridian Enterprise,Closed Lost,433000,2024-12-27,2025-02-28,0,32,0,Cerner,1,Executive meeting
+DL-1066,Lakeside Regional Health,Ambulatory Surgery Center,Fatima Hassan,Partner,Meridian Core,Prospecting,38000,2024-02-21,2024-04-08,17,5,15,Cerner,1,Executive meeting
+DL-1067,Ironwood Health Network,Outpatient Clinic,Rachel Kim,Inbound,Meridian Enterprise,Negotiation,467000,2025-03-12,2025-05-16,19,10,66,None,1,Demo scheduled
+DL-1068,Sequoia Health Network,Health Network,James Okafor,Conference,Meridian Enterprise,Closed Won,114000,2025-01-24,2025-03-25,0,33,99,None,7,Contract sent
+DL-1069,Mercy Healthcare System,Urgent Care,Megan Torres,Conference,Meridian Core,Closed Lost,26000,2024-11-13,2024-12-31,0,59,0,In-House Solution,4,Legal review
+DL-1070,Osprey Medical Group,Specialty Practice,Andre Bishop,Conference,Meridian Enterprise,Qualified,228000,2024-10-27,2025-01-08,14,2,28,Epic,3,Check in
+DL-1071,Redwood Health Services,Hospital System,Tomas Rivera,Referral,Meridian Enterprise,Closed Won,451000,2024-01-12,2024-03-12,0,33,100,In-House Solution,5,Executive meeting
+DL-1072,Crystal Healthcare System,Ambulatory Surgery Center,Connor Walsh,Outbound,Meridian Core,Qualified,28000,2024-11-06,2025-01-10,22,35,35,None,4,Follow-up call
+DL-1073,Evergreen Healthcare System,Health Network,Tomas Rivera,Outbound,Meridian Core,Closed Lost,35000,2024-06-16,2024-08-15,0,47,0,None,5,Check in
+DL-1074,Northbay Healthcare System,Ambulatory Surgery Center,Priya Nair,Referral,Meridian Enterprise,Closed Lost,445000,2024-03-13,2024-04-30,0,81,3,None,4,Follow-up call
+DL-1075,Riverside Regional Health,Outpatient Clinic,Nina Patel,Partner,Meridian Enterprise,Closed Won,444000,2024-10-01,2024-11-26,0,82,100,None,2,Demo scheduled
+DL-1076,Crystal Regional Health,Outpatient Clinic,Sarah Chen,Partner,Meridian Enterprise,Closed Won,213000,2024-11-13,2025-01-20,0,82,100,In-House Solution,4,Follow-up call
+DL-1077,Ridgeline Care Partners,Specialty Practice,Lauren Tate,Conference,Meridian Core,Qualified,18000,2024-01-24,2024-03-05,14,11,33,Epic,2,Demo scheduled
+DL-1078,Riverside Regional Health,Outpatient Clinic,James Okafor,Inbound,Meridian Core,Closed Won,35000,2025-03-02,2025-03-31,0,90,98,None,3,Contract sent
+DL-1079,Pinecrest Healthcare System,Hospital System,Andre Bishop,Conference,Meridian Pro,Closed Won,51000,2024-02-01,2024-03-27,0,70,100,None,6,Send proposal
+DL-1080,Vista Health Services,Urgent Care,Lauren Tate,Conference,Meridian Core,Demo Scheduled,25000,2025-02-06,2025-04-07,6,13,44,None,2,Send proposal
+DL-1081,Forge Medical Center,Ambulatory Surgery Center,Derek Stone,Inbound,Meridian Core,Closed Lost,20000,2024-05-08,2024-05-31,0,80,0,Cerner,2,Legal review
+DL-1082,Heritage Cardiac Institute,Ambulatory Surgery Center,Marcus Webb,Outbound,Meridian Core,Negotiation,42000,2024-03-05,2024-05-02,20,2,72,Cerner,1,Check in
+DL-1083,Sunset Health System,Hospital System,Julia Novak,Conference,Meridian Core,Closed Lost,42000,2024-06-03,2024-07-19,0,36,2,In-House Solution,2,Legal review
+DL-1084,Briar Care Partners,Urgent Care,Derek Stone,Outbound,Meridian Enterprise,Proposal Sent,250000,2024-12-30,2025-03-29,5,13,51,In-House Solution,2,Demo scheduled
+DL-1085,Evergreen Health System,Hospital System,Rachel Kim,Inbound,Meridian Pro,Closed Won,94000,2025-02-27,2025-04-01,0,53,97,In-House Solution,2,Executive meeting
+DL-1086,Pacific Health Services,Health Network,Priya Nair,Referral,Meridian Enterprise,Closed Won,387000,2024-02-17,2024-04-10,0,37,100,None,1,Legal review
+DL-1087,Briar Medical Group,Urgent Care,Tomas Rivera,Outbound,Meridian Core,Closed Lost,21000,2024-06-29,2024-09-02,0,84,0,None,1,Executive meeting
+DL-1088,Vista Medical Center,Specialty Practice,Nina Patel,Partner,Meridian Enterprise,Closed Lost,418000,2024-10-20,2024-12-26,0,65,0,Cerner,2,Legal review
+DL-1089,Coastal Health Alliance,Health Network,Tomas Rivera,Outbound,Meridian Core,Closed Won,37000,2024-06-22,2024-08-07,0,70,95,None,7,Demo scheduled
+DL-1090,Northbay Clinic,Urgent Care,Rachel Kim,Partner,Meridian Core,Closed Won,15000,2024-03-21,2024-04-21,0,69,95,In-House Solution,4,Check in
+DL-1091,Ridgeline Surgical Center,Outpatient Clinic,Sam Elliot,Conference,Meridian Core,Closed Lost,44000,2024-09-05,2024-10-12,0,37,0,In-House Solution,3,Follow-up call
+DL-1092,Forge Health System,Hospital System,Connor Walsh,Inbound,Meridian Core,Closed Won,31000,2024-07-21,2024-08-19,0,78,99,None,1,Demo scheduled
+DL-1093,Summit Surgical Center,Urgent Care,Derek Stone,Outbound,Meridian Enterprise,Closed Lost,281000,2024-12-26,2025-03-13,0,77,0,Epic,1,Executive meeting
+DL-1094,Beacon Healthcare System,Specialty Practice,Rachel Kim,Inbound,Meridian Enterprise,Closed Won,427000,2024-10-21,2024-12-14,0,55,95,None,4,Executive meeting
+DL-1095,Pinnacle Health Network,Specialty Practice,Andre Bishop,Conference,Meridian Enterprise,Closed Won,305000,2024-02-15,2024-04-30,0,85,99,In-House Solution,3,Executive meeting
+DL-1096,Shoreline Hospital,Urgent Care,Devon Mills,Outbound,Meridian Core,Qualified,34000,2024-02-09,2024-04-04,9,23,28,None,1,Send proposal
+DL-1097,Forge Hospital,Specialty Practice,Chris Park,Partner,Meridian Enterprise,Closed Lost,389000,2024-08-25,2024-11-01,0,69,0,In-House Solution,4,Follow-up call
+DL-1098,Pinecrest Medical Group,Urgent Care,Chris Park,Referral,Meridian Core,Closed Won,34000,2024-08-14,2024-09-19,0,59,100,None,3,Follow-up call
+DL-1099,Granite Medical Group,Specialty Practice,Priya Nair,Conference,Meridian Enterprise,Closed Lost,383000,2024-11-10,2025-02-02,0,32,2,Cerner,4,Contract sent
+DL-1100,Cypress Oncology Partners,Ambulatory Surgery Center,Lauren Tate,Referral,Meridian Core,Closed Won,44000,2024-02-01,2024-03-12,0,45,100,Epic,2,Legal review
+DL-1101,Valley Clinic,Outpatient Clinic,Andre Bishop,Conference,Meridian Enterprise,Demo Scheduled,406000,2024-05-24,2024-07-23,4,6,36,Cerner,3,Check in
+DL-1102,Briar Health Alliance,Ambulatory Surgery Center,Lauren Tate,Conference,Meridian Core,Proposal Sent,34000,2024-06-19,2024-08-01,6,10,51,None,3,Executive meeting
+DL-1103,Westmark Health Network,Hospital System,Lauren Tate,Partner,Meridian Enterprise,Closed Won,443000,2024-12-09,2025-02-08,0,31,100,None,6,Executive meeting
+DL-1104,Tidewater Hospital,Health Network,Chris Park,Inbound,Meridian Enterprise,Closed Won,151000,2024-04-08,2024-06-04,0,83,100,None,7,Send proposal
+DL-1105,Sunset Health Network,Health Network,Devon Mills,Partner,Meridian Enterprise,Closed Lost,310000,2024-04-02,2024-05-31,0,45,2,In-House Solution,4,Legal review
+DL-1106,Evergreen Health Services,Urgent Care,Fatima Hassan,Conference,Meridian Enterprise,Negotiation,314000,2024-08-24,2024-10-27,22,14,69,None,3,Contract sent
+DL-1107,Northbay Health Network,Outpatient Clinic,James Okafor,Inbound,Meridian Core,Closed Won,22000,2024-12-30,2025-01-30,0,62,97,Epic,4,Legal review
+DL-1108,Forge Health System,Urgent Care,Sarah Chen,Inbound,Meridian Pro,Closed Lost,70000,2024-07-31,2024-09-04,0,53,0,None,3,Executive meeting
+DL-1109,Shoreline Oncology Partners,Specialty Practice,Chris Park,Conference,Meridian Enterprise,Closed Won,102000,2024-12-22,2025-02-21,0,43,97,Cerner,4,Follow-up call
+DL-1110,Cedar Medical Center,Hospital System,Tomas Rivera,Outbound,Meridian Core,Proposal Sent,38000,2024-05-01,2024-07-04,4,2,57,Cerner,4,Check in
+DL-1111,Cypress Medical Group,Urgent Care,Lauren Tate,Conference,Meridian Pro,Closed Won,70000,2024-05-29,2024-07-20,0,72,100,None,1,Contract sent
+DL-1112,Summit Medical Group,Urgent Care,Derek Stone,Partner,Meridian Core,Closed Won,36000,2024-09-16,2024-10-28,0,54,100,None,1,Legal review
+DL-1113,Westmark Health Services,Urgent Care,Connor Walsh,Inbound,Meridian Enterprise,Closed Won,270000,2025-01-10,2025-02-24,0,64,100,In-House Solution,4,Check in
+DL-1114,Crystal Oncology Partners,Health Network,Chris Park,Inbound,Meridian Core,Closed Won,41000,2024-11-19,2024-12-13,0,32,98,In-House Solution,7,Executive meeting
+DL-1115,Lakeside Care Partners,Ambulatory Surgery Center,Derek Stone,Outbound,Meridian Core,Prospecting,30000,2024-08-30,2024-10-24,22,2,15,Epic,4,Demo scheduled
+DL-1116,Pacific Cardiac Institute,Specialty Practice,Rachel Kim,Inbound,Meridian Pro,Closed Lost,106000,2024-04-05,2024-05-06,0,76,1,None,2,Contract sent
+DL-1117,Sunset Medical Group,Outpatient Clinic,Tomas Rivera,Outbound,Meridian Enterprise,Closed Lost,251000,2024-06-13,2024-09-05,0,75,1,None,4,Follow-up call
+DL-1118,Beacon Medical Center,Ambulatory Surgery Center,Andre Bishop,Referral,Meridian Core,Closed Won,16000,2024-11-10,2024-12-21,0,53,100,In-House Solution,2,Executive meeting
+DL-1119,Atlas Cardiac Institute,Urgent Care,Connor Walsh,Inbound,Meridian Core,Closed Won,21000,2025-02-02,2025-03-18,0,53,100,Epic,2,Contract sent
+DL-1120,Cardinal Healthcare System,Outpatient Clinic,Andre Bishop,Conference,Meridian Core,Proposal Sent,19000,2024-07-22,2024-08-25,18,7,58,None,3,Check in
+DL-1121,Sunset Health System,Ambulatory Surgery Center,Fatima Hassan,Referral,Meridian Pro,Closed Won,65000,2024-04-19,2024-05-12,0,34,100,None,3,Check in
+DL-1122,Lakeshore Healthcare System,Urgent Care,Andre Bishop,Conference,Meridian Pro,Qualified,78000,2024-12-29,2025-02-06,13,2,28,None,4,Follow-up call
+DL-1123,Highland Healthcare System,Urgent Care,Andre Bishop,Conference,Meridian Core,Closed Won,17000,2024-10-10,2024-11-15,0,75,100,Cerner,4,Executive meeting
+DL-1124,Ridgeline Hospital,Specialty Practice,Priya Nair,Conference,Meridian Enterprise,Closed Won,364000,2024-03-05,2024-05-14,0,83,100,In-House Solution,2,Demo scheduled
+DL-1125,Cardinal Health Network,Health Network,James Okafor,Inbound,Meridian Enterprise,Closed Won,463000,2024-09-22,2024-11-09,0,90,100,None,5,Send proposal
+DL-1126,Osprey Medical Center,Urgent Care,Tomas Rivera,Outbound,Meridian Enterprise,Qualified,186000,2024-11-10,2025-02-11,7,12,34,None,1,Follow-up call
+DL-1127,Ironwood Regional Health,Ambulatory Surgery Center,Marcus Webb,Referral,Meridian Core,Closed Won,38000,2024-11-24,2025-01-02,0,61,100,Cerner,3,Demo scheduled
+DL-1128,Pinnacle Cardiac Institute,Specialty Practice,Connor Walsh,Inbound,Meridian Core,Closed Won,15000,2025-02-16,2025-03-16,0,60,100,None,2,Legal review
+DL-1129,Harbor Clinic,Specialty Practice,Rachel Kim,Inbound,Meridian Core,Closed Won,35000,2025-01-10,2025-02-18,0,50,98,Epic,4,Send proposal
+DL-1130,Northbay Health Alliance,Health Network,Megan Torres,Referral,Meridian Pro,Proposal Sent,80000,2025-03-18,2025-04-13,18,8,57,None,8,Send proposal
+DL-1131,Ironwood Oncology Partners,Hospital System,Aisha Brooks,Referral,Meridian Pro,Closed Lost,103000,2024-10-25,2024-12-03,0,71,5,Epic,1,Executive meeting
+DL-1132,Osprey Oncology Partners,Outpatient Clinic,James Okafor,Inbound,Meridian Enterprise,Closed Won,287000,2024-08-08,2024-10-12,0,32,100,None,2,Legal review
+DL-1133,Lakeside Medical Group,Urgent Care,Derek Stone,Outbound,Meridian Pro,Negotiation,110000,2024-05-27,2024-07-18,21,2,67,None,3,Contract sent
+DL-1134,Sequoia Cardiac Institute,Hospital System,Julia Novak,Conference,Meridian Core,Closed Won,20000,2024-07-24,2024-09-18,0,60,100,Epic,3,Legal review
+DL-1135,Evergreen Health Services,Urgent Care,Rachel Kim,Referral,Meridian Pro,Closed Won,104000,2024-03-24,2024-05-09,0,61,100,None,1,Legal review
+DL-1136,Shoreline Surgical Center,Specialty Practice,Rachel Kim,Inbound,Meridian Enterprise,Closed Lost,257000,2024-12-10,2025-02-14,0,85,5,None,3,Check in
+DL-1137,Highland Care Partners,Health Network,Chris Park,Conference,Meridian Enterprise,Closed Won,393000,2024-03-28,2024-06-17,0,31,100,None,4,Demo scheduled
+DL-1138,Valley Medical Group,Ambulatory Surgery Center,Julia Novak,Conference,Meridian Enterprise,Qualified,131000,2025-01-31,2025-04-22,19,11,32,Cerner,2,Demo scheduled
+DL-1139,Vista Oncology Partners,Ambulatory Surgery Center,Derek Stone,Outbound,Meridian Enterprise,Demo Scheduled,448000,2024-06-24,2024-09-27,21,8,38,None,3,Send proposal
+DL-1140,Cedar Health Alliance,Specialty Practice,Aisha Brooks,Referral,Meridian Pro,Closed Won,111000,2024-12-19,2025-02-02,0,48,96,Cerner,4,Executive meeting
+DL-1141,Vista Oncology Partners,Outpatient Clinic,Andre Bishop,Conference,Meridian Enterprise,Demo Scheduled,140000,2025-01-30,2025-04-10,17,4,38,Cerner,3,Send proposal
+DL-1142,Evergreen Health System,Health Network,James Okafor,Outbound,Meridian Core,Closed Lost,45000,2024-11-11,2025-01-01,0,33,0,In-House Solution,3,Follow-up call
+DL-1143,Osprey Health Network,Specialty Practice,Derek Stone,Conference,Meridian Enterprise,Demo Scheduled,202000,2024-03-21,2024-06-12,11,11,35,None,1,Send proposal
+DL-1144,Shoreline Health System,Specialty Practice,Sam Elliot,Inbound,Meridian Pro,Demo Scheduled,63000,2025-03-27,2025-05-12,3,1,39,Cerner,3,Legal review
+DL-1145,Beacon Care Partners,Specialty Practice,Fatima Hassan,Partner,Meridian Core,Closed Won,44000,2024-11-24,2025-01-04,0,81,96,None,4,Check in
+DL-1146,Evergreen Medical Group,Specialty Practice,Aisha Brooks,Conference,Meridian Enterprise,Closed Won,267000,2024-03-30,2024-05-30,0,36,97,None,2,Follow-up call
+DL-1147,Trailhead Care Partners,Outpatient Clinic,Nina Patel,Partner,Meridian Pro,Closed Lost,78000,2024-07-15,2024-08-29,0,30,0,In-House Solution,2,Follow-up call
+DL-1148,Ironwood Medical Group,Specialty Practice,James Okafor,Inbound,Meridian Enterprise,Closed Lost,357000,2024-08-26,2024-10-28,0,74,0,In-House Solution,2,Send proposal
+DL-1149,Lakeshore Regional Health,Ambulatory Surgery Center,Lauren Tate,Conference,Meridian Enterprise,Proposal Sent,291000,2024-09-01,2024-11-12,19,13,60,None,1,Contract sent
+DL-1150,Cedar Hospital,Urgent Care,Fatima Hassan,Inbound,Meridian Core,Closed Won,15000,2024-09-27,2024-11-15,0,62,98,Cerner,2,Legal review
+DL-1151,Clearwater Cardiac Institute,Health Network,Julia Novak,Conference,Meridian Enterprise,Closed Lost,146000,2024-08-14,2024-10-28,0,33,2,None,1,Contract sent
+DL-1152,Maple Care Partners,Specialty Practice,Fatima Hassan,Inbound,Meridian Pro,Closed Won,40000,2024-12-10,2025-01-25,0,34,95,Epic,1,Contract sent
+DL-1153,Trailhead Health Alliance,Outpatient Clinic,Marcus Webb,Outbound,Meridian Pro,Closed Won,63000,2024-02-05,2024-04-13,0,71,100,Epic,4,Executive meeting
+DL-1154,Lakeside Oncology Partners,Ambulatory Surgery Center,Megan Torres,Referral,Meridian Enterprise,Closed Lost,168000,2024-07-11,2024-09-05,0,37,0,Cerner,2,Check in
+DL-1155,Maple Hospital,Ambulatory Surgery Center,Sarah Chen,Inbound,Meridian Enterprise,Closed Won,317000,2024-06-01,2024-07-29,0,44,98,Epic,3,Send proposal
+DL-1156,Pinecrest Health Network,Hospital System,James Okafor,Inbound,Meridian Core,Closed Won,25000,2024-01-17,2024-02-11,0,32,100,Cerner,1,Demo scheduled
+DL-1157,Osprey Cardiac Institute,Hospital System,Fatima Hassan,Partner,Meridian Core,Closed Won,44000,2024-04-29,2024-06-04,0,88,100,None,6,Send proposal
+DL-1158,Valley Healthcare System,Outpatient Clinic,Julia Novak,Conference,Meridian Core,Negotiation,23000,2024-04-23,2024-06-16,17,1,70,In-House Solution,3,Check in
+DL-1159,Briar Health Alliance,Specialty Practice,Sam Elliot,Outbound,Meridian Core,Demo Scheduled,42000,2024-07-28,2024-09-17,6,13,42,None,4,Contract sent
+DL-1160,Valley Regional Health,Outpatient Clinic,Julia Novak,Conference,Meridian Enterprise,Prospecting,140000,2024-03-09,2024-05-21,19,4,10,None,1,Executive meeting
+DL-1161,Mercy Health Network,Ambulatory Surgery Center,Priya Nair,Partner,Meridian Enterprise,Closed Won,386000,2024-04-06,2024-05-30,0,85,100,None,2,Check in
+DL-1162,Cedar Regional Health,Health Network,James Okafor,Inbound,Meridian Enterprise,Closed Lost,204000,2025-01-17,2025-03-11,0,65,0,None,6,Legal review
+DL-1163,Highland Medical Center,Specialty Practice,Nina Patel,Partner,Meridian Pro,Proposal Sent,52000,2024-07-03,2024-08-24,12,4,55,None,2,Check in
+DL-1164,Cardinal Healthcare System,Outpatient Clinic,Sam Elliot,Outbound,Meridian Core,Proposal Sent,36000,2024-05-31,2024-08-01,19,11,60,None,4,Check in
+DL-1165,Pinecrest Oncology Partners,Outpatient Clinic,Chris Park,Inbound,Meridian Core,Closed Won,20000,2024-08-23,2024-10-08,0,41,100,In-House Solution,1,Executive meeting
+DL-1166,Tidewater Surgical Center,Health Network,Priya Nair,Conference,Meridian Enterprise,Negotiation,462000,2025-02-22,2025-04-26,32,6,65,Cerner,8,Follow-up call
+DL-1167,Pacific Healthcare System,Hospital System,Sarah Chen,Inbound,Meridian Enterprise,Closed Won,469000,2024-09-29,2024-11-17,0,48,95,Cerner,3,Follow-up call
+DL-1168,Lakeshore Care Partners,Health Network,James Okafor,Inbound,Meridian Enterprise,Closed Lost,281000,2024-09-25,2024-11-13,0,35,0,Epic,4,Legal review
+DL-1169,Beacon Health System,Hospital System,Priya Nair,Inbound,Meridian Pro,Closed Won,88000,2024-11-30,2025-01-04,0,33,100,None,8,Executive meeting
+DL-1170,Vista Medical Center,Hospital System,Sam Elliot,Partner,Meridian Enterprise,Closed Won,121000,2024-11-26,2025-01-20,0,85,100,Epic,2,Check in
+DL-1171,Osprey Health Network,Health Network,Nina Patel,Inbound,Meridian Enterprise,Closed Won,206000,2024-10-05,2024-12-03,0,82,100,In-House Solution,7,Check in
+DL-1172,Atlas Medical Group,Ambulatory Surgery Center,Derek Stone,Outbound,Meridian Core,Demo Scheduled,17000,2024-06-18,2024-08-17,3,2,41,None,4,Executive meeting
+DL-1173,Valley Health System,Specialty Practice,Rachel Kim,Conference,Meridian Core,Proposal Sent,34000,2024-01-16,2024-03-07,7,11,59,In-House Solution,3,Executive meeting
+DL-1174,Trailhead Health System,Outpatient Clinic,Connor Walsh,Inbound,Meridian Core,Closed Lost,36000,2024-12-31,2025-02-14,0,39,1,None,1,Follow-up call
+DL-1175,Willow Health Alliance,Outpatient Clinic,Tomas Rivera,Outbound,Meridian Core,Closed Won,20000,2024-08-15,2024-09-30,0,58,100,Cerner,1,Follow-up call
+DL-1176,Briar Health Network,Urgent Care,Priya Nair,Partner,Meridian Pro,Closed Won,89000,2024-06-30,2024-07-27,0,54,96,In-House Solution,2,Check in
+DL-1177,Cardinal Health Network,Hospital System,Tomas Rivera,Outbound,Meridian Core,Closed Lost,39000,2024-05-17,2024-07-08,0,60,0,None,8,Contract sent
+DL-1178,Pinnacle Health Alliance,Outpatient Clinic,Aisha Brooks,Referral,Meridian Core,Closed Lost,37000,2024-08-22,2024-09-21,0,54,0,Epic,2,Legal review
+DL-1179,Forge Health Alliance,Specialty Practice,Rachel Kim,Outbound,Meridian Pro,Demo Scheduled,62000,2024-11-04,2024-12-30,22,8,44,None,3,Executive meeting
+DL-1180,Coastal Surgical Center,Urgent Care,Megan Torres,Referral,Meridian Core,Closed Won,23000,2024-07-05,2024-08-15,0,31,100,In-House Solution,3,Executive meeting
+DL-1181,Lakeside Oncology Partners,Health Network,Priya Nair,Conference,Meridian Enterprise,Proposal Sent,229000,2025-02-23,2025-05-14,14,2,57,Cerner,7,Contract sent
+DL-1182,Osprey Regional Health,Urgent Care,Marcus Webb,Partner,Meridian Enterprise,Demo Scheduled,143000,2025-02-08,2025-03-31,7,11,44,None,4,Executive meeting
+DL-1183,Sunset Medical Group,Outpatient Clinic,Rachel Kim,Inbound,Meridian Core,Closed Won,44000,2025-02-11,2025-03-29,0,67,100,None,4,Demo scheduled
+DL-1184,Pinnacle Surgical Center,Specialty Practice,Sarah Chen,Inbound,Meridian Core,Closed Lost,19000,2024-09-04,2024-10-23,0,39,0,None,2,Contract sent
+DL-1185,Harbor Medical Center,Specialty Practice,Chris Park,Inbound,Meridian Enterprise,Closed Won,456000,2024-06-27,2024-08-21,0,49,95,In-House Solution,3,Check in
+DL-1186,Westmark Hospital,Urgent Care,James Okafor,Outbound,Meridian Core,Closed Lost,22000,2024-12-12,2025-02-04,0,59,0,Epic,4,Demo scheduled
+DL-1187,Atlas Cardiac Institute,Urgent Care,Sarah Chen,Inbound,Meridian Pro,Closed Won,89000,2025-01-12,2025-02-04,0,43,99,In-House Solution,1,Executive meeting
+DL-1188,Maple Medical Group,Health Network,Derek Stone,Outbound,Meridian Enterprise,Demo Scheduled,443000,2024-04-05,2024-07-04,21,7,44,Epic,8,Contract sent
+DL-1189,Trailhead Care Partners,Urgent Care,Devon Mills,Partner,Meridian Core,Closed Won,20000,2025-02-20,2025-03-29,0,49,96,None,2,Contract sent
+DL-1190,Briar Hospital,Specialty Practice,Megan Torres,Partner,Meridian Pro,Closed Won,63000,2024-08-02,2024-09-13,0,74,100,None,4,Legal review
+DL-1191,Willow Regional Health,Specialty Practice,Lauren Tate,Conference,Meridian Enterprise,Proposal Sent,127000,2024-04-05,2024-06-14,6,4,56,Cerner,4,Demo scheduled
+DL-1192,Cascade Clinic,Specialty Practice,Chris Park,Conference,Meridian Core,Closed Won,17000,2024-07-31,2024-09-21,0,78,98,None,2,Contract sent
+DL-1193,Cedar Health Services,Urgent Care,Tomas Rivera,Conference,Meridian Enterprise,Closed Won,157000,2024-03-27,2024-06-12,0,79,100,None,1,Executive meeting
+DL-1194,Harbor Healthcare System,Specialty Practice,Fatima Hassan,Partner,Meridian Core,Prospecting,27000,2024-10-06,2024-11-11,16,14,11,Epic,2,Send proposal
+DL-1195,Beacon Medical Group,Urgent Care,Andre Bishop,Outbound,Meridian Core,Prospecting,25000,2025-03-16,2025-05-25,20,5,19,Cerner,3,Legal review
+DL-1196,Sequoia Cardiac Institute,Health Network,Nina Patel,Inbound,Meridian Pro,Qualified,75000,2025-03-15,2025-04-27,9,25,28,In-House Solution,5,Check in
+DL-1197,Mercy Health Services,Ambulatory Surgery Center,Sam Elliot,Outbound,Meridian Core,Demo Scheduled,37000,2024-07-11,2024-09-09,16,8,40,Cerner,1,Check in
+DL-1198,Vista Medical Group,Hospital System,Fatima Hassan,Referral,Meridian Enterprise,Closed Lost,303000,2024-11-21,2025-01-02,0,82,0,Epic,5,Legal review
+DL-1199,Harbor Health Services,Specialty Practice,Derek Stone,Outbound,Meridian Pro,Closed Won,46000,2024-10-22,2024-12-06,0,80,100,None,2,Demo scheduled
+DL-1200,Northbay Medical Group,Ambulatory Surgery Center,Fatima Hassan,Partner,Meridian Core,Demo Scheduled,31000,2024-01-01,2024-02-02,4,11,40,None,2,Follow-up call
+DL-1201,Evergreen Health System,Ambulatory Surgery Center,Megan Torres,Referral,Meridian Core,Closed Won,39000,2024-11-16,2024-12-26,0,36,95,None,2,Contract sent
+DL-1202,Foothill Surgical Center,Hospital System,Connor Walsh,Inbound,Meridian Enterprise,Closed Won,275000,2024-09-22,2024-11-28,0,85,100,In-House Solution,2,Send proposal
+DL-1203,Sequoia Health System,Outpatient Clinic,Megan Torres,Referral,Meridian Pro,Closed Won,78000,2024-02-15,2024-03-10,0,82,97,In-House Solution,1,Contract sent
+DL-1204,Maple Health Alliance,Health Network,Devon Mills,Outbound,Meridian Enterprise,Qualified,310000,2024-08-13,2024-11-15,4,3,26,Cerner,6,Executive meeting
+DL-1205,Lakeside Clinic,Hospital System,Lauren Tate,Conference,Meridian Core,Prospecting,30000,2024-05-06,2024-07-03,11,34,18,None,1,Executive meeting
+DL-1206,Osprey Health Alliance,Health Network,Connor Walsh,Inbound,Meridian Pro,Closed Lost,49000,2024-09-10,2024-10-19,0,30,0,In-House Solution,6,Contract sent
+DL-1207,Willow Clinic,Hospital System,Devon Mills,Inbound,Meridian Enterprise,Closed Won,134000,2025-01-25,2025-03-07,0,32,95,Epic,7,Demo scheduled
+DL-1208,Ridgeline Regional Health,Health Network,Megan Torres,Referral,Meridian Enterprise,Closed Lost,140000,2024-02-12,2024-04-04,0,81,0,In-House Solution,2,Legal review
+DL-1209,Foothill Care Partners,Health Network,Sam Elliot,Outbound,Meridian Core,Prospecting,19000,2025-01-08,2025-03-07,11,11,12,In-House Solution,1,Send proposal
+DL-1210,Harbor Healthcare System,Ambulatory Surgery Center,Chris Park,Inbound,Meridian Pro,Closed Won,61000,2024-06-26,2024-07-30,0,79,99,In-House Solution,1,Legal review
+DL-1211,Pinecrest Surgical Center,Outpatient Clinic,Sam Elliot,Outbound,Meridian Enterprise,Closed Won,395000,2024-05-19,2024-08-22,0,59,100,None,2,Legal review
+DL-1212,Evergreen Medical Group,Ambulatory Surgery Center,Devon Mills,Partner,Meridian Enterprise,Prospecting,159000,2024-05-10,2024-07-04,3,1,13,None,4,Send proposal
+DL-1213,Pinecrest Hospital,Specialty Practice,Sam Elliot,Outbound,Meridian Enterprise,Negotiation,263000,2024-04-24,2024-07-16,29,2,73,In-House Solution,2,Executive meeting
+DL-1214,Granite Clinic,Specialty Practice,Julia Novak,Conference,Meridian Pro,Closed Won,79000,2024-01-24,2024-03-08,0,59,95,None,3,Check in
+DL-1215,Cedar Medical Group,Specialty Practice,Connor Walsh,Inbound,Meridian Core,Closed Won,27000,2024-08-25,2024-09-21,0,56,95,None,1,Legal review
+DL-1216,Vista Health System,Hospital System,Sarah Chen,Referral,Meridian Core,Closed Won,45000,2025-01-23,2025-02-19,0,33,97,In-House Solution,1,Send proposal
+DL-1217,Atlas Cardiac Institute,Specialty Practice,Julia Novak,Referral,Meridian Enterprise,Closed Won,143000,2024-07-30,2024-09-22,0,38,100,Epic,1,Demo scheduled
+DL-1218,Foothill Healthcare System,Outpatient Clinic,Lauren Tate,Conference,Meridian Pro,Closed Lost,81000,2024-05-01,2024-06-14,0,44,0,None,1,Send proposal
+DL-1219,Harbor Health System,Hospital System,James Okafor,Inbound,Meridian Enterprise,Closed Won,283000,2024-03-25,2024-05-29,0,49,100,None,3,Executive meeting
+DL-1220,Crystal Clinic,Outpatient Clinic,Tomas Rivera,Outbound,Meridian Core,Demo Scheduled,17000,2025-02-27,2025-05-04,14,9,35,In-House Solution,2,Follow-up call
+DL-1221,Granite Health Services,Hospital System,Megan Torres,Outbound,Meridian Pro,Prospecting,53000,2025-03-13,2025-05-21,2,39,13,None,7,Legal review
+DL-1222,Harbor Medical Center,Hospital System,Priya Nair,Inbound,Meridian Core,Closed Won,24000,2024-10-25,2024-12-07,0,38,96,None,8,Follow-up call
+DL-1223,Coastal Hospital,Ambulatory Surgery Center,Devon Mills,Outbound,Meridian Pro,Closed Lost,103000,2024-10-20,2024-12-03,0,57,0,None,3,Legal review
