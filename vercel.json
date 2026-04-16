@@ -1,4 +1,8 @@
 {
   "name": "meridian-health-app",
-  "rootDirectory": "meridian-app"
+  "rootDirectory": "meridian-app",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": ".next"
 }
