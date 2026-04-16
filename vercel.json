@@ -1,3 +1,4 @@
 {
-  "name": "meridian-health-app"
+  "name": "meridian-health-app",
+  "rootDirectory": "meridian-app"
 }
