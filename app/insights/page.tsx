@@ -10,7 +10,7 @@ import TimeToCloseTable from "@/components/charts/TimeToCloseTable";
 import DealStageFunnel from "@/components/charts/DealStageFunnel";
 import LeadSourceChart from "@/components/charts/LeadSourceChart";
 import WinRateChart from "@/components/charts/WinRateChart";
-import { supabase } from "@/lib/supabase";
+import { createSnapshot } from "@/app/actions";
 
 export default function InsightsPage() {
   const [deals, setDeals] = useState<Deal[]>([]);
@@ -30,13 +30,8 @@ export default function InsightsPage() {
   async function handleShare() {
     setSharing(true);
     try {
-      const { data, error } = await supabase
-        .from("meridian_snapshots")
-        .insert({ data: deals, label: `Snapshot ${new Date().toLocaleDateString()}` })
-        .select("id")
-        .single();
-      if (error) throw error;
-      const url = `${window.location.origin}/shared/${data.id}`;
+      const id = await createSnapshot(deals, `Snapshot ${new Date().toLocaleDateString()}`);
+      const url = `${window.location.origin}/shared/${id}`;
       setShareUrl(url);
       await navigator.clipboard.writeText(url).catch(() => {});
     } catch {
